@@ -1,8 +1,9 @@
-### Hi there, my name is Miguel Mesén
+### Hi there, my name is Miguel Mesén, and I'm a computer engineer student!
 #### Developer
 ![Developer](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
-Here goes some stuff about me.
+I'm 20 years old and I am passionate about learning new things.
+Born and raised in the US and am currently living in Costa Rica! 
 
 ## Skills and Experience
 * 🐍 Python
