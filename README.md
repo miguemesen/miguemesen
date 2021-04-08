@@ -8,6 +8,7 @@ Born and raised in the US and currently living in Costa Rica!
 ## Skills and Experience
 * ☕️ Java
 * 🐍  Python
+* 🐳 Docker
 * SQL 
 * 💻  JS / HTML / CSS 
 * 🟩  NODE JS
