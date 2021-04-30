@@ -12,8 +12,8 @@
 </br>
 </br>
 
-I'm 21 years old and I am passionate about learning new things.
-Born and raised in the US and currently living in Costa Rica! 
+Hi there, my name is Miguel Mesén, I'm 21 years old and I am passionate about learning new things.
+Born and raised in the US and currently living in Costa Rica! 🇨🇷
 
 ## Skills and Experience
 * ☕️ Java / Maven
