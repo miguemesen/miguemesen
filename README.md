@@ -2,7 +2,7 @@
 #### Developer
 ![Developer](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=miguemesen)
 
 I'm 21 years old and I am passionate about learning new things.
 Born and raised in the US and currently living in Costa Rica! 
