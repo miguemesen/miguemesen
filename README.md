@@ -1,4 +1,4 @@
-### Hi there, my name is Miguel Mesén, and I'm a computer engineer student!
+Computer Engineer Student
 ![Developer](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
 
@@ -9,6 +9,7 @@
   <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+</br>
 </br>
 
 I'm 21 years old and I am passionate about learning new things.
