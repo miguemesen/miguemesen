@@ -9,6 +9,7 @@
   <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
+</br>
 
 I'm 21 years old and I am passionate about learning new things.
 Born and raised in the US and currently living in Costa Rica! 
