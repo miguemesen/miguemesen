@@ -6,7 +6,11 @@
 
 
 <a href="https://twitter.com/migue_mesen">
-  <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="migue_mesen | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://t.me/migue_mesen">
+  <img align="left" alt="Migue's Telegram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" />
 </a>
 
 </br>
