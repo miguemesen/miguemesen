@@ -1,5 +1,4 @@
 ### Hi there, my name is Miguel Mesén, and I'm a computer engineer student!
-#### Developer
 ![Developer](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
 ![](https://komarev.com/ghpvc/?username=miguemesen)
