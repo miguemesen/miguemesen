@@ -1,7 +1,7 @@
 ### Hi there, my name is Miguel Mesén, and I'm a computer engineer student!
 ![Developer](https://justresults.co.nz/wp-content/uploads/2015/10/web-developer-banner.png)
 
-***
+
 ![](https://komarev.com/ghpvc/?username=miguemesen)
 
 
@@ -9,7 +9,6 @@
   <img align="left" alt="ErickOF23 | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-***
 
 I'm 21 years old and I am passionate about learning new things.
 Born and raised in the US and currently living in Costa Rica! 
